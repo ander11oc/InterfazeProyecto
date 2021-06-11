@@ -1,0 +1,44 @@
+nav div img{
+    margin-left: 20px;
+    width: 80px;
+    height: 70px;
+}
+nav div.nav-wrapper{
+    background-color: #ff6600;
+}
+nav div a{
+    color: black;
+}
+div div.input-field{
+    color: #ff6600;
+}
+div label{
+    color: #ff6600;
+}
+div.button div div button.btn-small{
+    background-color: #ff6600;
+}
+div.button div div button.btn-small:hover{
+    background-color: #2927279c;
+}
+
+main section {
+
+background-color:rgb(255, 255, 255);
+border: 3px solid rgb(77, 77, 77);
+height: 450px;
+width: 450px;
+}
+
+main section {
+list-style: none;
+padding: 3%;
+margin: 30px auto;
+
+}
+main section h3{
+color: rgb(10, 10, 10);
+text-align: center;
+
+
+}
